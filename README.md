@@ -1,0 +1,1 @@
+This project was done under the @ProdigyInfotech Internship Program. This is task #1 of the series. This task features a visual representation of how to create a bar chart to visualize the distribution of a categorical or continuous variable in #PowerBI with a pre-made dataset that I downloaded as an excel sheet.
